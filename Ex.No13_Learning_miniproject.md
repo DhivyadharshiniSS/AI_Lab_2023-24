@@ -73,6 +73,7 @@ for message, pred in zip(sample_messages, predictions):
 ```
 
 ### Output:
+```
 Accuracy: 0.98
 
 Classification Report:
@@ -91,6 +92,6 @@ Prediction: Spam
 Message: 'Hey, are we still on for lunch tomorrow?'
 Prediction: Ham
 
-
+```
 ### Result:
 Thus the system was trained successfully and the prediction was carried out.
